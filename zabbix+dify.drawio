@@ -22,7 +22,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="du3ij_6MLwKsIhkfcnGm-1" value="用户提问" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="du3ij_6MLwKsIhkfcnGm-1" value="用户提问&lt;div&gt;（IP）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="du3ij_6MLwKsIhkfcnGm-5" value="分析当前服务器性能状况（cpu、内存）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
